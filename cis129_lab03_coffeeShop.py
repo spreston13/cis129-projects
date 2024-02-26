@@ -1,3 +1,7 @@
+# Author: Sebastian P.
+# My second Python lab in my CIS129 course
+# Prints a receipt with added tax
+
 print('*' * 40)
 print('My Coffee and Muffin Shop')
 #Declare integer numOfCoffees
