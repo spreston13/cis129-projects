@@ -1,7 +1,7 @@
 # Module 5 Lab-5
 # Sebastian Preston
 # 9/30/2024
-# Describe what the program does here
+# This program calculates a store's monthly sales and calculates the amount the store receives, while also calculating an employee's bonus amount based on the sales increase.
 
 monthlySales = float(input('Enter monthly sales amount: '))
 if monthlySales >= 110000:
