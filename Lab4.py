@@ -21,11 +21,10 @@ if salesIncrease >= .05:
     empAmount = 75
 elif salesIncrease >= .04:
     empAmount = 50
-if salesIncrease >= .03:
+elif salesIncrease >= .03:
     empAmount = 40
 else:
     empAmount = 0
-print(str(empAmount))
 
 print('The store bonus amount is $', storeAmount)
 print('The employee bonus amount is $', empAmount)
