@@ -21,7 +21,7 @@ PAYOUT_PER_BOTTLE = .10
 totalPayout = 0
 totalPayout = totalBottles * PAYOUT_PER_BOTTLE
 
-print('The total number of bottles returned was'), sum
+print('The total number of bottles returned was'), totalBottles
 print('The total payout for the bottles is $'), totalPayout
 		
 print("Do you want to enter another week’s worth of data?")
